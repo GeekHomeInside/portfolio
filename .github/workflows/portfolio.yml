@@ -32,4 +32,5 @@ jobs:
         uses: seanmiddleditch/gha-publish-to-git@master
         with:
           branch: gh-pages
+          source_path: public
           github_token: ${{ secrets.GH_TOKEN }}
