@@ -1,6 +1,6 @@
 +++
 title = "packer-example-with-vmwaretools"
-date = "2019-01-25"
+date = "2020-02-12"
 author = "GuiAdCo"
 description = "Packer - Example to build VM with Packer for CentOS 7.5.18.04 with Vmware Tools"
 +++

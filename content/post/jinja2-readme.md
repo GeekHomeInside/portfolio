@@ -1,6 +1,6 @@
 +++
 title = "Python-Jinja2 readme generator"
-date = "2019-01-25"
+date = "2020-02-12"
 author = "GuiAdCo"
 description = "Python-Jinja2 readme generator for [CCL-Consulting](https://github.com/ccl-consulting?type=source)"
 +++

@@ -1,6 +1,6 @@
 +++
 title = "Hugo-demo"
-date = "2019-01-25"
+date = "2020-02-12"
 author = "GuiAdCo"
 description = "Repository demo using hugo framework and Circle CI for gh-pages"
 +++

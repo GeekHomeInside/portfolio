@@ -1,6 +1,6 @@
 +++
 title = "atomic-boxes"
-date = "2019-01-25"
+date = "2020-02-12"
 author = "GuiAdCo"
 description = "Vagrant boxes with Atomic OS like VMware-Photon / CoreOS / Feroda-CoreOS"
 +++

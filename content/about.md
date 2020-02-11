@@ -13,3 +13,13 @@ You can look this links to knwon more about me:
 - [Linkedin](https://www.linkedin.com/in/adevienn/)
 - [Github](https://github.com/guiadco)
 - [Gitlab](https://gitlab.com/guiadco?nav_source=navbar)
+
+My Personnal Organization:
+
+- GeekHomeInside
+- Kreelio
+- Actiniumio
+
+My Professional Organisation
+
+- CCL-Consulting
