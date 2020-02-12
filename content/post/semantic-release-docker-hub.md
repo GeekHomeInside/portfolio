@@ -1,6 +1,6 @@
 +++
 title = "Semantic Release Container"
-date = "2020-02-12"
+date = "2019-10-20"
 author = "GuiAdCo"
 description = "This repository is use to build a docker image with semantic-release."
 +++

@@ -1,6 +1,6 @@
 +++
 title = "build-harness-readme-example"
-date = "2020-02-12"
+date = "2020-02-03"
 author = "GuiAdCo"
 description = "Repository using build-harness to generate readme"
 +++

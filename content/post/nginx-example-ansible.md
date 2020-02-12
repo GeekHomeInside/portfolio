@@ -1,6 +1,6 @@
 +++
 title = "nginx-example-ansible"
-date = "2020-02-12"
+date = "2018-09-09"
 author = "GuiAdCo"
 description = "this nginx playbook is configure to work with artifactory.conf by default"
 +++

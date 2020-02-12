@@ -1,6 +1,6 @@
 +++
 title = "semantic-release-example"
-date = "2020-02-12"
+date = "2019-10-13"
 author = "GuiAdCo"
 description = "Repository using semantic-release"
 +++

@@ -1,6 +1,6 @@
 +++
 title = "AWS Gitlab Stack"
-date = "2020-02-12"
+date = "2019-10-13"
 author = "GuiAdCo"
 description = "AWS Gitlab Stack using cloudposse module only"
 +++

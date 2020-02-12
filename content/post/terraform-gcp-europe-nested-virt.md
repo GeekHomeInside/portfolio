@@ -1,6 +1,6 @@
 +++
 title = "Terraform GCP Nested Virtualization"
-date = "2019-01-25"
+date = "2019-02-17"
 author = "GuiAdCo"
 description = "Terraform Plan to build a custom VM on GCP with Nested Virtualization"
 +++

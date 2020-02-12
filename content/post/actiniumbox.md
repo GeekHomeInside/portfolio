@@ -1,6 +1,6 @@
 +++
 title = "ActiniumBox"
-date = "2019-01-25"
+date = "2018-10-01"
 author = "GuiAdCo"
 description = "This repository contains files used by Packer to create images for Vagrant Cloud"
 +++
