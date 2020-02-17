@@ -1,4 +1,4 @@
-baseurl = "https://portfolio.geekhomeinside.com/"
+baseurl = "https://portfolio.geekhomeinside.io/"
 languageCode = "en-us"
 theme = "hugo-theme-terminal"
 paginate = 5
